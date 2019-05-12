@@ -1,5 +1,4 @@
 
-```Python
 """
 运算符的使用
 Version: 0.1
