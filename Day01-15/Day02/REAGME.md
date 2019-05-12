@@ -134,8 +134,6 @@ Python支持多种运算符，下表大致按照优先级从高到低的顺序�
 """
 运算符的使用
 
-Version: 0.1
-Author: 骆昊
 """
 
 a = 5
@@ -168,13 +166,11 @@ print(flag2 is not False)
 
 #### 练习1：华氏温度转摄氏温度。
 
-```Python
+
 """
 将华氏温度转换为摄氏温度
 F = 1.8C + 32
 
-Version: 0.1
-Author: 骆昊
 """
 
 f = float(input('请输入华氏温度: '))
@@ -189,8 +185,6 @@ print('%.1f华氏度 = %.1f摄氏度' % (f, c))
 """
 输入半径计算圆的周长和面积
 
-Version: 0.1
-Author: 骆昊
 """
 
 import math
@@ -209,8 +203,6 @@ print('面积: %.2f' % area)
 """
 输入年份 如果是闰年输出True 否则输出False
 
-Version: 0.1
-Author: 骆昊
 """
 
 year = int(input('请输入年份: '))
